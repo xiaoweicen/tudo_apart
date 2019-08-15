@@ -1,0 +1,16 @@
+{
+  "compilerOptions":{
+      "module": "commonjs",
+      "sourceMap": true,
+      "outDir": "dist",
+      "declaration": true,
+      "experimentalDecorators": true,
+      "removeComments": false,
+      "noImplicitAny": true,
+      "preserveConstEnums": true,
+      "target": "es2018"
+  },
+  "exclude": [
+      "node_modules","dist"
+  ]
+}

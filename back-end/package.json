@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ctsy/config": "^1.0.19",
+    "@ctsy/controller": "^1.0.27",
+    "@ctsy/model": "^1.0.21",
+    "@ctsy/relation": "^1.0.12",
+    "@ctsy/router": "^1.0.21",
+    "@ctsy/server": "^1.0.8",
+    "@types/node": "^12.7.2",
+    "express": "^4.17.1"
+  }
+}
